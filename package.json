@@ -1,0 +1,23 @@
+{
+  "name": "snapterest",
+  "version": "1.0.0",
+  "description": "Webapp that does retrieve some tweets based on some filters by consuming the Tweeter streaming API. Notice that this webapp has been developed following ´React Essentials´ebook published by PacktPub for training purposes.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jordirolli/snapterest.git"
+  },
+  "keywords": [
+    "react",
+    "tweeter"
+  ],
+  "author": "Jordi Roldán",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jordirolli/snapterest/issues"
+  },
+  "homepage": "https://github.com/jordirolli/snapterest"
+}
